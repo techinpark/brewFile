@@ -27,6 +27,8 @@ cask "sublime-text"
 cask "telegram"
 cask "visual-studio-code"
 cask "zeplin"
+cask "openinterminal-lite"
+cask "openineditor-lite"
 mas "GIPHY CAPTURE", id: 668208984
 mas "Magnet", id: 441258766
 mas "Xcode", id: 497799835
