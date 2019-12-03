@@ -14,6 +14,8 @@ brew "rbenv"
 brew "swiftformat"
 brew "wget"
 brew "xcodegen"
+brew "cocoapods", link: false 
+brew "git" 
 brew "xmlstarlet"
 brew "zsh"
 brew "zsh-completions"
@@ -40,6 +42,7 @@ cask "sublime-text"
 cask "telegram"
 cask "visual-studio-code"
 cask "zeplin"
+cask "docker" 
 mas "Apple Configurator 2", id: 1037126344
 mas "GIPHY CAPTURE", id: 668208984
 mas "Keynote", id: 409183694
