@@ -43,7 +43,8 @@ cask "sublime-text"
 cask "telegram"
 cask "visual-studio-code"
 cask "zeplin"
-cask "docker" 
+cask "docker"
+cask "provisionql"
 mas "Apple Configurator 2", id: 1037126344
 mas "GIPHY CAPTURE", id: 668208984
 mas "Keynote", id: 409183694
