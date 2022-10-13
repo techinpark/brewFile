@@ -20,7 +20,6 @@ brew "xmlstarlet"
 brew "fastlane"
 brew "zsh"
 brew "zsh-completions"
-brew "Nonchalant/appicon/appicon"
 brew "mas-cli/tap/mas"
 cask "caffeine"
 cask "font-d2coding"
@@ -36,7 +35,8 @@ cask "openineditor-lite"
 cask "openinterminal"
 cask "openinterminal-lite"
 cask "postman"
-cask "sequel-pro"
+cask "sequel-ace"
+cask "xcodes"
 cask "slack"
 cask "sublime-text"
 cask "telegram"
@@ -49,4 +49,3 @@ cask "jandi-statusbar"
 mas "Apple Configurator 2", id: 1037126344
 mas "GIPHY CAPTURE", id: 668208984
 mas "Magnet", id: 441258766
-mas "Xcode", id: 497799835
